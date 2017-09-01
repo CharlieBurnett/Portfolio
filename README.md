@@ -1,2 +1,1 @@
-# Portfolio
-Professional Portfolio for Recruiters
+# Charles Burnett's Professional Portfolio
