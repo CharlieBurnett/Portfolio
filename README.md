@@ -1,5 +1,5 @@
 # Charles Burnett's Professional Portfolio
-------------------------------------------
+
 # [Mimo](https://itunes.apple.com/us/app/mimo-learn-to-code-on-the-go/id1133960732?mt=8)
 
 <img src="http://is4.mzstatic.com/image/thumb/Purple117/v4/9d/3b/fd/9d3bfdfb-b511-e3db-ad20-a1e50f767dae/source/392x696bb.jpg" height="333" width="188"></img> 
